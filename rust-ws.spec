@@ -6,8 +6,8 @@
 %global crate ws
 
 Name:           rust-%{crate}
-Version:        0.9.1
-Release:        2%{?dist}
+Version:        0.9.2
+Release:        1%{?dist}
 Summary:        Lightweight, event-driven WebSockets for Rust
 
 # Upstream license specification: MIT
